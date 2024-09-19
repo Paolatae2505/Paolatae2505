@@ -49,6 +49,7 @@
 <span>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 </span>
 
 <h4> Databases </h4>
@@ -56,6 +57,7 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </span>
 
 <h4> IDE </h4>
@@ -90,7 +92,7 @@
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Paolatae2505&show_icons=true&locale=en&bg_color=ffcccc&text_color=ff66b2&icon_color=ff99cc"
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Paolatae2505&show_icons=true&locale=en&bg_color=0d1117&text_color=ff66b2&layout=compact"
     alt="Paolatae2505" /></p>
 
 <br>
