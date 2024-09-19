@@ -3,7 +3,8 @@
 
 
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://media.tenor.com/8paE2rRAZWIAAAAC/petals.gif" alt="Paola's GIF" /></p>
+
 
 
 - 🌱 I’m currently enhancing my skills in AI, Data Mining, and Databases...
