@@ -2,8 +2,8 @@
 <h3 align="center"> Computer Science graduate 🌟.</h3>
 
 
+<p><img align="right" src="https://media.tenor.com/8paE2rRAZWIAAAAC/petals.gif" alt="Petals GIF" /></p>
 
-<p><img align="right" src="https://media.tenor.com/8paE2rRAZWIAAAAC/petals.gif" alt="Paola's GIF" /></p>
 
 
 
