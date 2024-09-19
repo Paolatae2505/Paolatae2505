@@ -6,12 +6,14 @@
 
 
 
+- 🌱 I’m currently enhancing my skills in AI, Data Mining, and Databases.
 
-- 🌱 I’m currently enhancing my skills in AI, Data Mining, and Databases...
+- 🤝 I am very interested in collaborating on projects that involve AI, with a particular interest in medicine. However, I am open to opportunities in other areas of AI as well.
 
 - 📫 How to reach me **Paola_VB@ciencias.unam.mx**
 
 - 📖 Quote: "Born to read. Forced to work."
+
 
 <br>
 
