@@ -125,9 +125,6 @@
 
 <img src="https://gifimage.net/wp-content/uploads/2017/09/android-gif-wallpaper-10.gif" width="500"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paolatae2505&theme=dracula&layout=compact" />
-
-
 [Paolatae2505](https://github.com/Paolatae2505)
 
 
