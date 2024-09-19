@@ -86,18 +86,18 @@
 <h3>Statistical Data :-</h3>
 
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Paolatae2505&show_icons=true&locale=en&bg_color=ffffff&text_color=ff66b2&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Paolatae2505&show_icons=true&locale=en&bg_color=0d1117&text_color=ff66b2&layout=compact"
     alt="Paolatae2505" 
-    bg_color=#ffffff/></p>
+    bg_color=#0d1117/></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Paolatae2505&show_icons=true&locale=en&bg_color=ffffff&text_color=ff66b2&layout=compact"
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Paolatae2505&show_icons=true&locale=en&bg_color=0d1117&text_color=ff66b2&layout=compact"
     alt="Paolatae2505" /></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Paolatae2505&theme=dark&background=ffffff&stroke=ff66b2&ring=ff66b2&fire=ff99cc&currStreakNum=ff66b2&sideNums=ff66b2&currStreakLabel=ff66b2&sideLabels=ff66b2&date_format=M%20j%5B%2C%20Y%5D" alt="Paolatae2505" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Paolatae2505&theme=dark&background=0d1117&stroke=ff66b2&ring=ff66b2&fire=ff99cc&currStreakNum=ff66b2&sideNums=ff66b2&currStreakLabel=ff66b2&sideLabels=ff66b2&date_format=M%20j%5B%2C%20Y%5D" alt="Paolatae2505" /></p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
