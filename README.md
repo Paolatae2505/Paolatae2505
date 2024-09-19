@@ -92,7 +92,7 @@
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Paolatae2505&show_icons=true&locale=en&bg_color=0d1117&text_color=ff66b2&layout=compact"
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Paolatae2505&show_icons=true&locale=en&bg_color=ffcccc&text_color=ff66b2&layout=compact"
     alt="Paolatae2505" /></p>
 
 <br>
