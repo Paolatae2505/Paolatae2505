@@ -2,7 +2,7 @@
 <h3 align="center"> Computer Science graduate 🌟.</h3>
 
 
-<p><img align="right" src="https://media.tenor.com/8paE2rRAZWIAAAAC/petals.gif" alt="Petals GIF" /></p>
+<p><img align="right" src="https://github.com/Paolatae2505/Paolatae2505/blob/main/Cerezo.png" alt="cerezo" /></p>
 
 
 
