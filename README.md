@@ -1,5 +1,5 @@
 <h1 align="center">Hi there ! 👋, I'm Paola VB ❤️</h1>
-<h3 align="center">Computer Science graduate 🌟.</h3>
+<h3 align="center"> Computer Science graduate 🌟.</h3>
 
 
 
@@ -40,7 +40,10 @@
   <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white">
   <img src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white">
   <img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+  <img src="https://img.shields.io/badge/Racket-9F1D20?style=for-the-badge&logo=racket&logoColor=white">
 </span>
+
 
 <h4> Frameworks </h4>
 <span>
@@ -81,20 +84,21 @@
 <h3>Statistical Data :-</h3>
 
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Paolatae2505&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Paolatae2505&show_icons=true&locale=en&bg_color=ffcccc&text_color=ff66b2&layout=compact"
     alt="Paolatae2505" 
-    bg_color=#808080/></p>
+    bg_color=#ffcccc/></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Paolatae2505&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Paolatae2505&show_icons=true&locale=en&bg_color=ffcccc&text_color=ff66b2&icon_color=ff99cc"
     alt="Paolatae2505" /></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Paolatae2505&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Paolatae2505" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Paolatae2505&theme=dark&background=ffcccc&stroke=ff66b2&ring=ff66b2&fire=ff99cc&currStreakNum=ff66b2&sideNums=ff66b2&currStreakLabel=ff66b2&sideLabels=ff66b2&date_format=M%20j%5B%2C%20Y%5D" alt="Paolatae2505" /></p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-[Adam-pw](https://github.com/Adam-pw)
+[Paolatae2505](https://github.com/Paolatae2505)
+
