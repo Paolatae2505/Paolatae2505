@@ -116,6 +116,18 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+
+<a href="https://github.com/Paolatae2505">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Paolatae2505&theme=dracula&hide_border=true" width="520" alt="Paolatae2505"/>
+</a>
+
+![Paolatae2505's Trophy](https://github-profile-trophy.vercel.app/?username=Paolatae2505&theme=dracula&column=4&no-frame=true)
+
+<img src="https://gifimage.net/wp-content/uploads/2017/09/android-gif-wallpaper-10.gif" width="500"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paolatae2505&theme=dracula&layout=compact" />
+
+
 [Paolatae2505](https://github.com/Paolatae2505)
 
 
