@@ -45,6 +45,7 @@
   <img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
   <img src="https://img.shields.io/badge/Racket-9F1D20?style=for-the-badge&logo=racket&logoColor=white">
+  <img src="https://img.shields.io/badge/Prolog-8B1B3A?style=for-the-badge&logo=prolog&logoColor=white">
 </span>
 
 
