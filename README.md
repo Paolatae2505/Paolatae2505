@@ -46,6 +46,7 @@
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
   <img src="https://img.shields.io/badge/Racket-9F1D20?style=for-the-badge&logo=racket&logoColor=white">
   <img src="https://img.shields.io/badge/Prolog-8B1B3A?style=for-the-badge&logo=prolog&logoColor=white">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white">
 </span>
 
 
@@ -88,7 +89,9 @@
 <span>
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
   <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure">
+  <img src="https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon Web Services">
 </span>
+
 
 
 <h4> Other Tools and Technologies </h4>
